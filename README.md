@@ -62,7 +62,7 @@ Once replaced it should reflect the changes on the upload page.
 
 ### Upload instructions
 The upload instructions on the upload page can be changed. Replace the strings in the array. Replace and do the changes in upinstructions.php
-Path to the file YOUR_MOODLE_DIR/mod/quiz/upinstructions.php
+Path to the file YOUR_MOODLE_DIR/local/qrbasedimage/upinstructions.php
 
 ## Installation Instructions-
 Install this plugin as a usual Moodle Plugin. Login as an Administrator on Moodle then go to Site Administration then go to Plugin and install the plugin from there. The installation will create 2 tables in the database for the functionality to work with names ‘mdl_images’ and ‘mdl_randomnumber’.
