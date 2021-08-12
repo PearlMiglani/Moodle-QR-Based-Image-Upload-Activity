@@ -41,7 +41,7 @@ All essay type questions have a ‘Show Image’ button which fetches the images
 
 Image links can be found at 4 places:
 1. Under the 'Attempts' menu, when viewing individual student's attempt in any way, complete quiz at a time or n (>=1) question(s) at a time.
-2. Under the 'Attempts' menu, when viewing individual student's attempt indiviual question using 'Require Grading' button
+2. Under the 'Attempts' menu, when viewing individual student's attempt individual question using 'Require Grading' button
 3. Under these menus, when clicking on add comment and grade redirecting to comment.php
 4. Under 'Report' -> 'Manual Grading' menu option from quiz settings
 
