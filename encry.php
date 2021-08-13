@@ -9,5 +9,5 @@
 $ciphering = "AES-128-CTR";
 $iv_length = openssl_cipher_iv_length($ciphering);
 $options = 0;
-$encryption_iv = '9182736454261527'; 
-$encryption_key = "N11TU17!V3R&I";
+$encryption_iv = 'thisisiv'; 
+$encryption_key = "thisiskey";
